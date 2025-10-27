@@ -1,6 +1,6 @@
 # Machine Learning Project
 
-## CS-171 Section 2
+Final Project for SJSU CS-171 Section 2
 
 Authors: [Jonathan Nguyen](https://github.com/jonathanguven) and [Brandon Nguyen](https://github.com/brandonnguyenn27)
 
