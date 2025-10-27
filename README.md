@@ -9,7 +9,7 @@ Authors: [Jonathan Nguyen](https://github.com/jonathanguven) and [Brandon Nguyen
 ## Project Outline
 
 ### Data Collection Plan
-
+We will parse website data or find a public dataset for our project.
 ### Model Plans
 
 ## Project Timeline
