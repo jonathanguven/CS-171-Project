@@ -54,7 +54,7 @@ Authors: [Jonathan Nguyen](https://github.com/jonathanguven) and [Brandon Nguyen
 - Completed model construction notebook with model training and evaluation
 - Reproducibility test on both partner's machines
 
-### Week 4: Analysis and Visualization
+### Week 4: Analysis and Visualization Notebooks
 
 **Goals**
 
