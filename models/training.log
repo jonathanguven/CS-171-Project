@@ -1,0 +1,34 @@
+2025-11-24 17:13:20,250 - __main__ - INFO - Starting model training with scikit-learn
+2025-11-24 17:16:05,406 - __main__ - INFO - Linear Regression - Train RMSE: $375,514, Val RMSE: $385,092, Val R²: 0.7363
+2025-11-24 17:17:40,291 - __main__ - INFO - Ridge Regression - Train RMSE: $376,314, Val RMSE: $385,221, Val R²: 0.7361
+2025-11-24 17:26:50,009 - __main__ - INFO - Starting model training with scikit-learn
+2025-11-24 17:27:25,534 - __main__ - INFO - Starting model training with scikit-learn
+2025-12-01 14:08:44,787 - __main__ - INFO - Starting model training with scikit-learn
+2025-12-01 14:09:55,350 - __main__ - INFO - Linear Regression - Train RMSE: $375,514, Val RMSE: $385,092, Val R²: 0.7363
+2025-12-01 14:36:55,372 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-12-01 14:36:55,375 - Comm - WARNING - No such comm: 80879e5a-46da-4e1c-bdbf-cb4bdbee7114
+2025-12-01 17:21:31,975 - __main__ - INFO - Starting model training with scikit-learn
+2025-12-01 17:24:02,260 - __main__ - INFO - Linear Regression - Train RMSE: $375,514, Val RMSE: $385,092, Val R²: 0.7363
+2025-12-01 17:24:27,779 - __main__ - INFO - Ridge Regression - Train RMSE: $376,314, Val RMSE: $385,221, Val R²: 0.7361
+2025-12-01 17:31:39,136 - __main__ - INFO - Lasso Regression - Train RMSE: $375,685, Val RMSE: $384,953, Val R²: 0.7365
+2025-12-01 17:43:13,890 - __main__ - INFO - Random Forest - Train RMSE: $433,570, Val RMSE: $496,483, Val R²: 0.5616
+2025-12-01 18:02:08,172 - __main__ - INFO - Gradient Boosting - Train RMSE: $436,511, Val RMSE: $460,706, Val R²: 0.6225
+2025-12-01 18:02:25,687 - __main__ - INFO - Saved best model: Lasso Regression to models/best_sklearn_model.pkl
+2025-12-01 18:02:39,147 - __main__ - INFO - Starting model training with scikit-learn
+2025-12-01 18:03:31,871 - __main__ - INFO - Starting PyTorch model training...
+2025-12-01 18:06:37,614 - __main__ - INFO - Epoch 10/100 - Train Loss: 138943424183.91, Val Loss: 119097051347.63
+2025-12-01 18:09:39,754 - __main__ - INFO - Epoch 20/100 - Train Loss: 128296644533.67, Val Loss: 111228988832.43
+2025-12-01 18:12:42,601 - __main__ - INFO - Epoch 30/100 - Train Loss: 125021992525.11, Val Loss: 109117715066.88
+2025-12-01 18:15:49,598 - __main__ - INFO - Epoch 40/100 - Train Loss: 122690016335.03, Val Loss: 107491241908.91
+2025-12-01 18:18:52,986 - __main__ - INFO - Epoch 50/100 - Train Loss: 121271480903.56, Val Loss: 107325489029.12
+2025-12-01 18:21:56,982 - __main__ - INFO - Epoch 60/100 - Train Loss: 119768211909.69, Val Loss: 106359618300.59
+2025-12-01 18:24:17,266 - __main__ - INFO - Epoch 70/100 - Train Loss: 116646550859.93, Val Loss: 106243418071.04
+2025-12-01 18:25:02,246 - __main__ - INFO - Early stopping at epoch 73
+2025-12-01 18:25:02,250 - __main__ - INFO - Training completed in 1290.38 seconds
+2025-12-01 18:25:11,324 - __main__ - INFO - PyTorch MLP - Train RMSE: $307,326, Val RMSE: $325,795, Val R²: 0.8112
+2025-12-01 18:25:11,334 - __main__ - INFO - Saved PyTorch model to models/pytorch_model_full.pth
+2025-12-01 18:25:18,117 - __main__ - INFO - Test set - RMSE: $378,430, MAE: $231,327, R²: 0.7368
+2025-12-01 18:25:48,678 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-12-01 18:25:48,700 - Comm - WARNING - No such comm: 5fbb4c32-f6d8-41b7-b282-13ed9d45fcca
+2025-12-01 19:45:31,105 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-12-01 19:45:31,108 - Comm - WARNING - No such comm: 230b1224-e987-434c-9406-56972db077df
