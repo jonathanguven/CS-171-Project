@@ -27,13 +27,13 @@ Brandon Nguyen
 - Perform exploratory data analysis to identify patterns and correlations between features and price.
 
 ### Model Plans
-Jonathan Nguyen - Linear and Ensemble Models
+Brandon Nguyen - Linear and Ensemble Models
 - Implement Multiple Linear Regression as a baseline model to estimate price as a function of multiple predictors.
 - Evaluate regularized models such as Ridge or Lasso Regression to handle multicollinearity and overfitting.
 - Include an Ensemble Learning approach to compare performance against linear methods.
 - Evaluate results using Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R² score, and visualize prediction accuracy with plots of predicted vs. actual prices.
 
-Brandon Nguyen - Neural Network Model (MLP with PyTorch)
+Jonathan Nguyen - Neural Network Model (MLP with PyTorch)
 - Build a Multilayer Perceptron (MLP) regression model using PyTorch, incorporating at least one hidden layer with nonlinear activation functions (ReLU).
 - Train the network using the preprocessed data and compare its learning curve to that of traditional models.
 - Tune hyperparameters such as learning rate, number of epochs, and layer size to minimize loss and prevent overfitting.
