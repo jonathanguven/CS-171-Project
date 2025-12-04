@@ -32,3 +32,6 @@
 2025-12-01 18:25:48,700 - Comm - WARNING - No such comm: 5fbb4c32-f6d8-41b7-b282-13ed9d45fcca
 2025-12-01 19:45:31,105 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
 2025-12-01 19:45:31,108 - Comm - WARNING - No such comm: 230b1224-e987-434c-9406-56972db077df
+2025-12-04 03:57:04,269 - __main__ - INFO - Starting model training with scikit-learn
+2025-12-04 03:57:54,236 - __main__ - INFO - Linear Regression - Train RMSE: $375,514, Val RMSE: $385,092, Val R²: 0.7363
+2025-12-04 03:58:01,429 - __main__ - INFO - Ridge Regression - Train RMSE: $376,314, Val RMSE: $385,221, Val R²: 0.7361
