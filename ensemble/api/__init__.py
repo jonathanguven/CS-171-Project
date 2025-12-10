@@ -1,5 +1,0 @@
-"""
-Housing Price Prediction API
-"""
-
-
